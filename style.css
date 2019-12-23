@@ -1,0 +1,14 @@
+.heading {
+    padding-inline: 40px;
+    text-align: center;
+    margin: 40px;
+    color: black;
+    background-color: cornflowerblue;
+    border: 1px solid aquamarine;
+    padding: 30px;
+}
+.paragraph {
+    color: crimson;
+    text-align: center;
+
+}
