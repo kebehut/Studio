@@ -1,9 +1,16 @@
+#centered-block {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(87, 32, 175);
+    box-sizing: border-box;
+}
 .heading {
     padding-inline: 40px;
-    text-align: center;
     margin: 40px;
     color: black;
     background-color: cornflowerblue;
+    max-width: 550px;
     border: 1px solid aquamarine;
     padding: 30px;
 }
@@ -12,3 +19,7 @@
     text-align: center;
 
 }
+.contentinfo {
+    color: green;
+ }
+ 
